@@ -1,0 +1,56 @@
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Google.Apis.Core.dll
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Google.Apis.dll
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Google.Apis.Drive.v2.dll
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\log4net.dll
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Zlib.Portable.dll
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Google.Apis.pdb
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Google.Apis.xml
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Google.Apis.Core.xml
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Google.Apis.Drive.v2.pdb
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Google.Apis.Drive.v2.xml
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\log4net.xml
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Zlib.Portable.pdb
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\obj\Debug\FBM.vbproj.App.config
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\obj\Debug\FBM.vbprojResolveAssemblyReference.cache
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\obj\Debug\FBM.main.resources
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\obj\Debug\FBM.menuPopup.resources
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\obj\Debug\FBM.Resources.resources
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\obj\Debug\FBM.sideLinkerPopup.resources
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\obj\Debug\FBM.vbproj.GenerateResource.Cache
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\obj\Debug\FBM.printWeeklyPopup.resources
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\obj\Debug\FBM.shoppingListPopup.resources
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Food Board Management Suite.exe.config
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Food Board Management Suite.exe.manifest
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Food Board Management Suite.application
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Food Board Management Suite.exe
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Food Board Management Suite.pdb
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\bin\Debug\Food Board Management Suite.xml
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\obj\Debug\Food Board Management Suite.exe.manifest
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\obj\Debug\Food Board Management Suite.application
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\obj\Debug\Food Board Management Suite.exe
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\obj\Debug\Food Board Management Suite.xml
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\obj\Debug\Food Board Management Suite.pdb
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\FBM\FBM\obj\Debug\FBM.coHallListPopup.resources
